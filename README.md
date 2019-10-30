@@ -1,2 +1,0 @@
-# cookingwebsite
-Created with CodeSandbox
